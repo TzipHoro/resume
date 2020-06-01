@@ -4,7 +4,7 @@ Recent graduate with a degree in mathematics and experience in data science rese
   
 
 # Education
-### _**Queens College**, the City University of New York_ 
+## _**Queens College**, the City University of New York_ 
 **Bachelor of Arts in Mathematics**, May 2020
 * **Concentration**: Data Science and Statistics
 * **Minor**: Honors in Business and Liberal Arts
