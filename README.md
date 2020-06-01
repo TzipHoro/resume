@@ -44,8 +44,13 @@ Fall 2019 Semester
 <br>
 
 # Projects
+#### The Theory of Modeling Pandemic Severity
+Using the severity of COVID-19 as real world example, [this paper](https://github.com/TzipHoro/QC_MATH_342/tree/master/modeling%20essay) covers the theory of supervised learning, specification, linear modelling, error metrics, validation, and model selection.
 
-
+#### Modeling Apartment Sale Prices in Queens
+The goal of [this research](https://github.com/TzipHoro/QC_MATH_342/tree/master/final%20project) is to create a predictive model for the sale price of apartments in Queens, New York. Using data on the Queens housing market between February 2016 and February 2017,
+three predictive models were made via the OLS, Regression Tree, and Random Forest algorithms.
+By identifying key explanatory features, the three models are obtained and discussed in detail. 
 
 <br>
 <br>
