@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 github:
-  is_project_page: false
+  repository_url: https://github.com/TzipHoro
 
 title: Rebecca Horowitz
 link: "https://github.com/TzipHoro"
