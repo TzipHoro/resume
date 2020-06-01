@@ -2,7 +2,6 @@
 I am a recent graduate with a bachelor's degree in mathematics and experience in data science research. As a hard working, analytical, and self-motivated individual with a record of academic accomplishments and proven leadership and communication skills, I aim to make the world a better place by understanding how it works through data science.
 
 <br>
-<br>
 
 # Projects
 #### The Theory of Modeling Pandemic Severity
@@ -17,7 +16,6 @@ By identifying key explanatory features, the three models are obtained and discu
 Coauthor: Christine Figueroa  
 By way of two econometric regression models, this paper analyzes key factors of obesity prevalence such as, race/ethnicity, food consumption expenditure, income, and unemployment rates across the 50 states and the District of Columbia in the year of 2017, to identify causes of differences between state obesity rates and thereby find areas in which policies can be made. Using the results, key policies can be identified and implemented to help combat the growing epidemic.
 
-<br>
 <br>
 
 # Publications
@@ -46,7 +44,6 @@ By way of two econometric regression models, this paper analyzes key factors of 
 **Pertinant Coursework:**  
 Machine Learning, Statistical Inference, Probability Theory, Bayesian Modeling, Advanced Econometrics, Discrete Mathematics and Structures, Linear Algebra, Multivariable Calculus, Real Analysis, Data Visualization, OOP, Critical Thinking, Business Writing, Communications, Accounting
 
-<br>
 <br> 
 
 ## Experience
@@ -66,7 +63,6 @@ July 2019 - December 2019
 Fall 2019 Semester
 * Served as a TA and graded projects for a data mining class
 
-<br>
 <br>
 
 ## Skills
