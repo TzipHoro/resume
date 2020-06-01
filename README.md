@@ -1,4 +1,4 @@
-<div style="text-align: center"><span style="font-size:11px"> (917)-933-1339 | Rebecca.Horowitz@outlook.com | <a> www.linkedin.com/in/rebecca-horowitz-70878b154 </a></span></div>
+<div style="text-align: center"><span style="font-size:13px"> (917)-933-1339 | <a> Rebecca.Horowitz@outlook.com </a> | <a> www.linkedin.com/in/rebecca-horowitz-70878b154 </a></span></div>
 
 <br>
 
