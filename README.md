@@ -1,5 +1,3 @@
-| [summary](https://github.com/TzipHoro/resume/blob/master/README.md#summary) | [education](https://github.com/TzipHoro/resume/blob/master/README.md#education) |
-
 # Summary
 Recent graduate with a degree in mathematics and experience in data science research. Hard working, analytical, and self-motivated individual with a record of academic accomplishments and proven leadership and communication skills.
 
@@ -17,3 +15,6 @@ Recent graduate with a degree in mathematics and experience in data science rese
 * Queens College Presidential Scholar (2)
 * Dean’s List all semesters 
 * Accepted to the Business and Liberal Arts Honors Program (BALA)
+
+**Pertinant Coursework**
+Machine Learning, Statistical Inference, Probability Theory, Bayesian Modeling, Advanced Econometrics, Discrete Mathematics and Structures, Linear Algebra, Multivariable Calculus, Real Analysis, Data Visualization, OOP, Critical Thinking, Business Writing, Communications, Accounting
