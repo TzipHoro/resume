@@ -10,11 +10,12 @@ Recent graduate with a degree in mathematics and experience in data science rese
 * **Minor**: Honors in Business and Liberal Arts
 * **GPA**: 3.95
 
-**Honors and Awards:**
-* Phi Beta Kappa Honor Society
-* Queens College Presidential Scholar (2)
-* Dean’s List all semesters 
-* Accepted to the Business and Liberal Arts Honors Program (BALA)
+**Honors and Awards:**  
+Phi Beta Kappa Honor Society, Presidential Scholar (2), Dean’s List all semesters, accepted into the Business and Liberal Arts Honors Program (BALA)
 
-**Pertinant Coursework**
+**Pertinant Coursework:**  
 Machine Learning, Statistical Inference, Probability Theory, Bayesian Modeling, Advanced Econometrics, Discrete Mathematics and Structures, Linear Algebra, Multivariable Calculus, Real Analysis, Data Visualization, OOP, Critical Thinking, Business Writing, Communications, Accounting
+
+  
+
+# Experience
