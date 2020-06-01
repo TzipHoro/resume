@@ -1,8 +1,8 @@
-<div style="text-align: center"><span style="font-size:13px"> (917)-933-1339 | <a> Rebecca.Horowitz@outlook.com </a> | <a> www.linkedin.com/in/rebecca-horowitz-70878b154 </a></span></div>
+<div style="text-align: center"><span style="font-size:13px"> (917)-933-1339 | <a href="Rebecca.Horowitz@outlook.com"> Rebecca.Horowitz@outlook.com </a> | <a href="www.linkedin.com/in/rebecca-horowitz-70878b154"> www.linkedin.com/in/rebecca-horowitz-70878b154 </a></span></div>
 
 <br>
 
-I am a recent graduate with a bachelor's degree in mathematics and experience in data science research. As a hard working, analytical, and self-motivated individual with a record of academic accomplishments and proven leadership and communication skills, I aim to make the world a better place by understanding how it works through data science.
+I am a recent graduate with a bachelor's degree in mathematics and experience in data science research. As a hard working, analytical, and self-motivated individual with a record of academic accomplishments and proven leadership and communication skills, I aim to make the world a better place by uncovering how it works through data science.
 
 <br>
 
