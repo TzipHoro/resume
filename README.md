@@ -1,4 +1,4 @@
-<div style="text-align: center"><span style="font-size:13px"> (917)-933-1339 | <a href="Rebecca.Horowitz@outlook.com"> Rebecca.Horowitz@outlook.com </a> | <a href="www.linkedin.com/in/rebecca-horowitz-70878b154"> www.linkedin.com/in/rebecca-horowitz-70878b154 </a></span></div>
+<div style="text-align: center"><span style="font-size:13px"> (917)-933-1339 | <a href="mailto:Rebecca.Horowitz@outlook.com"> Rebecca.Horowitz@outlook.com </a> | <a href="https://www.linkedin.com/in/rebecca-horowitz-70878b154"> www.linkedin.com/in/rebecca-horowitz-70878b154 </a></span></div>
 
 <br>
 
