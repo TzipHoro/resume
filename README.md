@@ -47,10 +47,14 @@ Fall 2019 Semester
 #### The Theory of Modeling Pandemic Severity
 Using the severity of COVID-19 as real world example, [this paper](https://github.com/TzipHoro/QC_MATH_342/tree/master/modeling%20essay) covers the theory of supervised learning, specification, linear modelling, error metrics, validation, and model selection.
 
-#### Modeling Apartment Sale Prices in Queens
+#### Modeling Apartment Sale Prices in Queens, New York
 The goal of [this research](https://github.com/TzipHoro/QC_MATH_342/tree/master/final%20project) is to create a predictive model for the sale price of apartments in Queens, New York. Using data on the Queens housing market between February 2016 and February 2017,
 three predictive models were made via the OLS, Regression Tree, and Random Forest algorithms.
 By identifying key explanatory features, the three models are obtained and discussed in detail. 
+
+#### Obesity in the United States: A Report on the Contributing Factors to One of the Nation’s Leading Heath Epidemics
+**Coauthor:** Christine Figueroa
+By way of two econometric regression models, this paper analyzes key factors of obesity prevalence such as, race/ethnicity, food consumption expenditure, income, and unemployment rates across the 50 states and the District of Columbia in the year of 2017, to identify causes of differences between state obesity rates and thereby find areas in which policies can be made. Using the results, key policies can be identified and implemented to help combat the growing epidemic.
 
 <br>
 <br>
@@ -60,7 +64,10 @@ By identifying key explanatory features, the three models are obtained and discu
 * **Coauthors:** Bon K. Sy, Jin Chen
 * Research findings published in the _6th Annual Conference on Computational Science and Computational Intelligence_ (2019)
 
+<br>
+<br>
 
+# Skills
 
 
 
