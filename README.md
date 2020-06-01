@@ -7,9 +7,9 @@ Recent graduate with a degree in mathematics and experience in data science rese
 # Education
 ## _**Queens College**, the City University of New York_ 
 **Bachelor of Arts in Mathematics**, May 2020
-* **Concentration**: Data Science and Statistics
-* **Minor**: Honors in Business and Liberal Arts
-* **GPA**: 3.95
+* **Concentration:** Data Science and Statistics
+* **Minor:** Honors in Business and Liberal Arts
+* **GPA:** 3.95
 
 **Honors and Awards:**  
 * Phi Beta Kappa Honor Society 
@@ -20,7 +20,8 @@ Recent graduate with a degree in mathematics and experience in data science rese
 **Pertinant Coursework:**  
 Machine Learning, Statistical Inference, Probability Theory, Bayesian Modeling, Advanced Econometrics, Discrete Mathematics and Structures, Linear Algebra, Multivariable Calculus, Real Analysis, Data Visualization, OOP, Critical Thinking, Business Writing, Communications, Accounting
 
-  
+<br>
+<br> 
 
 # Experience
 #### **Math Remediation Teacher/Assistant**, _Bais Yaakov Academy of Queens_, Queens, New York
@@ -39,7 +40,20 @@ July 2019 - December 2019
 Fall 2019 Semester
 * Served as a TA and graded projects for a data mining class
 
+<br>
+<br>
 
+# Projects
+
+
+
+<br>
+<br>
+
+# Publications
+#### Incorporating Association Patterns into Manifold Clustering for Enabling Predictive Analytics
+* **Coauthors:** Bon K. Sy, Jin Chen
+* Research findings published in the _6th Annual Conference on Computational Science and Computational Intelligence_ (2019)
 
 
 
