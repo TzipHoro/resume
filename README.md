@@ -1,2 +1,1 @@
-# Rebecca Horowitz
-
+# Summary
