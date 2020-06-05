@@ -40,21 +40,22 @@ By way of two econometric regression models, this paper analyzes key factors of 
 
 **Honors and Awards:**  
 * Phi Beta Kappa Honor Society 
-* Queens College Presidential Scholar (2) 
+* Awarded the Mrs. Neela Kulkarni Prize
+* Honors in Mathematics
+* Queens College Presidential Scholar 
 * Dean’s List all semesters 
-* Accepted to the Business and Liberal Arts Honors Program (BALA)
 
 **Pertinant Coursework:**  
-Machine Learning, Statistical Inference, Probability Theory, Bayesian Modeling, Advanced Econometrics, Discrete Mathematics and Structures, Linear Algebra, Multivariable Calculus, Real Analysis, Data Visualization, OOP, Critical Thinking, Business Writing, Communications, Accounting
+Machine Learning, Statistical Inference, Probability Theory, Bayesian Modeling, Advanced Econometrics, Discrete Mathematics and Structures, Linear Algebra, Multivariable Calculus, Real Analysis, Data Visualization, OOP, Critical Thinking, Business Writing, Communications, and Accounting
 
 <br> 
 
 ## Experience
 #### **Math Remediation Teacher/Assistant**, _Bais Yaakov Academy of Queens_, Queens, New York
 September 2018 - June 2020
-* Increase students’ grade point average by teaching those who require remedial math study
-* Assist teachers in the classroom by helping students with independent work
-*	Fill in as a substitute teacher when needed
+* Increased students’ grade point average by teaching those who required remedial math study
+* Assisted teachers in the classroom by helping students with independent work
+*	Acted as a substitute teacher when needed
 
 #### **Predictive Analytics Intern**, _SIPPA Solutions_, New York, New York
 July 2019 - December 2019
