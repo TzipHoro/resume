@@ -69,10 +69,11 @@ Fall 2019 Semester
 
 <br>
 
-## Skills
-* **Programming Languages:** R, intermediate Python (NumPy, Pandas) and C++, knowledge of VBA and SQL
-* **Techinical Skills:** LaTex, Power BI, SPSS, Adobe InDesign and Photoshop, Microsoft Word, Excel, PowerPoint, Outlook, Publisher 
-
+## Skills & Abilities
+**Programming Languages**: R, Python (NumPy, Pandas), C++, VBA, and SQL  
+**Skills**: Linear Modeling, CART, Logistic Regression, Asymmetric Cost Classification, K-Fold Cross Validation,
+KNN, Missing Data Imputation, ggplot, dplyr, github, LaTex, Power BI, SPSS, Adobe InDesign and Photoshop,
+Microsoft Word, Excel, PowerPoint, Outlook, and Publisher
 
 <br>
 <br>
