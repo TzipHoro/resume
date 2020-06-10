@@ -36,7 +36,7 @@ By way of two econometric regression models, this paper analyzes key factors of 
 **Bachelor of Arts in Mathematics**, May 2020
 * **Concentration:** Data Science and Statistics
 * **Minor:** Honors in Business and Liberal Arts
-* **GPA:** 3.94
+* **GPA:** 3.96
 
 **Honors and Awards:**  
 * Phi Beta Kappa Honor Society 
