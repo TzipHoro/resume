@@ -45,7 +45,7 @@ By way of two econometric regression models, this paper analyzes key factors of 
 * Queens College Presidential Scholar 
 * Dean’s List all semesters 
 
-**Pertinant Coursework:**  
+**Pertinent Coursework:**  
 Machine Learning, Statistical Inference, Probability Theory, Bayesian Modeling, Advanced Econometrics, Discrete Mathematics and Structures, Linear Algebra, Multivariable Calculus, Real Analysis, Data Visualization, OOP, Critical Thinking, Business Writing, Communications, and Accounting
 
 <br> 
