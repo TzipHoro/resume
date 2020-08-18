@@ -1,4 +1,4 @@
-<div style="text-align: center"><span style="font-size:13px"> (917)-933-1339 | <a href="mailto:Rebecca.Horowitz@outlook.com"> Rebecca.Horowitz@outlook.com </a> | <a href="https://www.linkedin.com/in/rebecca-horowitz-70878b154"> www.linkedin.com/in/rebecca-horowitz-70878b154 </a></span></div>
+<div style="text-align: center"><span style="font-size:13px"> <a href="tel:+1917-933-1339"> (917)-933-1339 </a> | <a href="mailto:Rebecca.Horowitz@outlook.com"> Rebecca.Horowitz@outlook.com </a> | <a href="https://www.linkedin.com/in/rebecca-horowitz-70878b154"> www.linkedin.com/in/rebecca-horowitz-70878b154 </a></span></div>
 
 <br>
 
@@ -16,15 +16,19 @@ three predictive models were made via the OLS, Regression Tree, and Random Fores
 By identifying key explanatory features, the three models are obtained and discussed in detail. 
 
 #### Obesity in the United States: A Report on the Contributing Factors to One of the Nation’s Leading Heath Epidemics
-Coauthor: Christine Figueroa  
-By way of two econometric regression models, this paper analyzes key factors of obesity prevalence such as, race/ethnicity, food consumption expenditure, income, and unemployment rates across the 50 states and the District of Columbia in the year of 2017, to identify causes of differences between state obesity rates and thereby find areas in which policies can be made. Using the results, key policies can be identified and implemented to help combat the growing epidemic.
+By way of two econometric regression models, this paper analyzes key factors of obesity prevalence such as, race/ethnicity, food consumption expenditure, income, and unemployment rates across the 50 states and the District of Columbia in the year of 2017, to identify causes of differences between state obesity rates and thereby find areas in which policies can be made. Using the results, key policies can be identified and implemented to help combat the growing epidemic. 
+
+<br>
+Coauthor: Christine Figueroa 
 
 <br>
 
 # Publications
 #### Incorporating Association Patterns into Manifold Clustering for Enabling Predictive Analytics
-* Coauthors: Bon K. Sy, Jin Chen
-* Research findings published in the _6th Annual Conference on Computational Science and Computational Intelligence_ (2019)
+The goal of this research is to develop a predictive analytics technique based on manifold clustering of mixed data type. In this research, we explore the concept of statistically significant association patterns to induce an initial partition on data for deriving manifolds. Manifolds are hyperplanes embedded in low dimensions. The advantage of this novel technique is a bootstrap on data clusters that reveals statistical associations from the information-theoretic perspective. As an illustration, the proposed technique is applied to a real data set of diabetes patients. An assessment on the proposed technique is performed to investigate the effect of bootstrap based on association patterns. Results of the preliminary study demonstrate the feasibility of applying the proposed technique to real-world data. 
+
+<br>
+B. Sy, J. Chen and R. Horowitz, "Incorporating Association Patterns into Manifold Clustering for Enabling Predictive Analytics," _2019 International Conference on Computational Science and Computational Intelligence (CSCI)_, Las Vegas, NV, USA, 2019, pp. 1300-1305, <a href="https://doi.org/10.1109/CSCI49370.2019.00243">doi: 10.1109/CSCI49370.2019.00243</a>.
 
 <br>
 <br>
@@ -52,7 +56,7 @@ Machine Learning, Statistical Inference, Probability Theory, Bayesian Modeling, 
 
 ## Experience
 #### **Math Remediation Teacher/Assistant**, _Bais Yaakov Academy of Queens_, Queens, New York
-September 2018 - June 2020
+September 2018 - July 2020
 * Increased students’ grade point average by teaching those who required remedial math study
 * Assisted teachers in the classroom by helping students with independent work
 *	Acted as a substitute teacher when needed
