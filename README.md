@@ -2,7 +2,7 @@
 
 <br>
 
-I am a recent graduate with a bachelor's degree in mathematics and experience in data science research. As a hard working, analytical, and self-motivated individual with a record of academic accomplishments and proven leadership and communication skills, I aim to make the world a better place by uncovering how it works through data science.
+I am a recent graduate with a bachelor's degree in mathematics and experience in data science research. As a hard working, analytical, and self-motivated individual with a record of academic accomplishments and proven leadership and communication skills, I aim to uncover and explain the world's nuances through data science.
 
 <br>
 
@@ -16,7 +16,7 @@ three predictive models were made via the OLS, Regression Tree, and Random Fores
 By identifying key explanatory features, the three models are obtained and discussed in detail. 
 
 #### Obesity in the United States: A Report on the Contributing Factors to One of the Nation’s Leading Heath Epidemics
-By way of two econometric regression models, this paper analyzes key factors of obesity prevalence such as, race/ethnicity, food consumption expenditure, income, and unemployment rates across the 50 states and the District of Columbia in the year of 2017, to identify causes of differences between state obesity rates and thereby find areas in which policies can be made. Using the results, key policies can be identified and implemented to help combat the growing epidemic. 
+The United States has the highest obesity rate among developed nations and is ranked twelfth in the world. Obesity prevalence is a growing concern that must addressed. It affects the health of the people as well as the economy. Previous studies have found that policy intervention helps reduce the rate of obesity, but none have pinpointed which policies are most effective. By way of two econometric models, this paper analyzes key factors of obesity prevalence such as, race/ethnicity, food consumption expenditure, income, and unemployment rates across the 50 states and the District of Columbia in the year of 2017, to identify causes of differences between state obesity rates and thereby find areas in which policies can be made. The models show that the percentage of the state population that identifies as black and state unemployment rate increases obesity prevalence while food consumption expenditure and income decrease obesity prevalence. Using these results, further policies can be implemented to help combat the growing epidemic.
 
 <br>
 Coauthor: Christine Figueroa 
@@ -49,12 +49,20 @@ B. Sy, J. Chen and R. Horowitz, "Incorporating Association Patterns into Manifol
 * Queens College Presidential Scholar 
 * Dean’s List all semesters 
 
-**Pertinent Coursework:**  
+**Coursework:**  
 Machine Learning, Statistical Inference, Probability Theory, Bayesian Modeling, Advanced Econometrics, Discrete Mathematics and Structures, Linear Algebra, Multivariable Calculus, Real Analysis, Data Visualization, OOP, Critical Thinking, Business Writing, Communications, and Accounting
 
 <br> 
 
 ## Experience
+#### **Research and Teaching Assistant**, _Queens College_, Queens, New York
+**Advanced Probability**, August 2020 - Present
+* Conduct research on Random Forest convergence and write code for R package development
+* Facilitate instruction by holding office hours with students to review materials
+
+**Data Mining and Warehousing**, September 2019 - December 2019
+* Evaluated and graded student projects
+
 #### **Math Remediation Teacher/Assistant**, _Bais Yaakov Academy of Queens_, Queens, New York
 September 2018 - July 2020
 * Increased students’ grade point average by teaching those who required remedial math study
@@ -63,21 +71,20 @@ September 2018 - July 2020
 
 #### **Predictive Analytics Intern**, _SIPPA Solutions_, New York, New York
 July 2019 - December 2019
-* Developed a manifold-clustering algorithm that successfully predicted users’ engagement with the SIPPA Health app
-*	Created weekly summaries that encouraged study participants to engage with the SIPPA Health app
-*	Conducted orientations with research study participants
-
-#### **College Assistant**, _CS Department_, _Queens College_, Queens, New York
-Fall 2019 Semester
-* Served as a TA and graded projects for a data mining class
+* Developed a manifold-clustering algorithm that predicted users’ engagement with the SIPPA Health app
+* Identified and categorized key messages that helped diabetes patients manage their health
+* Analyzed user input data, wrote weekly reports, and produced visualizations using Power BI
+* Created and managed surveys that encouraged study participants to engage with the SIPPA Health app
+* Conducted orientations with research study participants
 
 <br>
 
 ## Skills & Abilities
-**Programming Languages**: R, Python (NumPy, Pandas), C++, VBA, and SQL  
-**Skills**: Linear Modeling, CART, Logistic Regression, Asymmetric Cost Classification, K-Fold Cross Validation,
-KNN, Missing Data Imputation, ggplot, dplyr, github, LaTex, Power BI, SPSS, Adobe InDesign and Photoshop,
-Microsoft Word, Excel, PowerPoint, Outlook, and Publisher
+**Programming Languages**: R, Python, C++, VBA, and SQL  
+**Skills**: Linear Modeling, SVM, CART, Logistic Regression, Asymmetric Cost Classification, K-Fold Cross
+Validation, KNN, Missing Data Imputation, ggplot2, dplyr, NumPy, Pandas, sklearn, Matplotlib, GitHub,
+LaTex, Power BI, SPSS, Adobe InDesign and Photoshop, Microsoft Word, Excel, PowerPoint, Outlook, and
+Publisher
 
 <br>
 <br>
