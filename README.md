@@ -84,11 +84,11 @@ July 2019 - December 2019
 <br>
 
 ## Skills & Abilities
-**Programming Languages**: R (dplyr, ggplot2), Python (numpy, pandas, sklearn), C++, SQL, VBA
-**Tools**: RStudio, Jupyter, Visual Studio, SPSS, Power B
+**Programming Languages**: R (dplyr, ggplot2), Python (numpy, pandas, sklearn), C++, SQL, VBA <br>
+**Tools**: RStudio, Jupyter, Visual Studio, SPSS, Power B <br>
 **Skills**: Linear Modeling, SVM, CART, Logistic Regression, Asymmetric Cost Classification, K-Fold Cross
 Validation, KNN, Missing Data Imputation, GitHub, LaTex, Power BI, SPSS, Adobe InDesign and Photoshop, 
-Microsoft Word, Excel, PowerPoint, Outlook, Publisher
+Microsoft Word, Excel, PowerPoint, Outlook, Publisher <br>
 
 <br>
 <br>
