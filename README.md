@@ -55,10 +55,13 @@ Machine Learning, Statistical Inference, Probability Theory, Bayesian Modeling, 
 <br> 
 
 ## Experience
-#### **Research and Teaching Assistant**, _Queens College_, Queens, New York
+#### **Machine Learning Research Assistant**, _Queens College_, Queens, New York
+August 2020 - Present
+* Conduct research on Random Forest tree convergence and implement this feature in an open source R package
+
+#### **Teaching Assistant**, _Queens College_, Queens, New York
 **Advanced Probability**, August 2020 - Present
-* Conduct research on Random Forest convergence and write code for R package development
-* Facilitate instruction by holding office hours with students to review materials
+* Aid instruction by holding office hours with students and grading homework assignments
 
 **Data Mining and Warehousing**, September 2019 - December 2019
 * Evaluated and graded student projects
@@ -71,20 +74,21 @@ September 2018 - July 2020
 
 #### **Predictive Analytics Intern**, _SIPPA Solutions_, New York, New York
 July 2019 - December 2019
-* Developed a manifold-clustering algorithm that predicted users’ engagement with the SIPPA Health app
-* Identified and categorized key messages that helped diabetes patients manage their health
-* Analyzed user input data, wrote weekly reports, and produced visualizations using Power BI
+* Developed a manifold-clustering algorithm that detected subgroups of the SIPPA Health user population and successfully predicted usage for the deployment of targeted messages
+* Identified and categorized key messages based on a behavior model that encouraged diabetes patients to better manage their health
 * Created and managed surveys that encouraged study participants to engage with the SIPPA Health app
+* Analyzed user input data, wrote weekly reports, and produced visualizations using Power BI
+* Designed infographics and pitched the SIPPA Health platform to stakeholders and investors
 * Conducted orientations with research study participants
 
 <br>
 
 ## Skills & Abilities
-**Programming Languages**: R, Python, C++, VBA, and SQL  
+**Programming Languages**: R (dplyr, ggplot2), Python (numpy, pandas, sklearn), C++, SQL, VBA
+**Tools**: RStudio, Jupyter, Visual Studio, SPSS, Power B
 **Skills**: Linear Modeling, SVM, CART, Logistic Regression, Asymmetric Cost Classification, K-Fold Cross
-Validation, KNN, Missing Data Imputation, ggplot2, dplyr, NumPy, Pandas, sklearn, Matplotlib, GitHub,
-LaTex, Power BI, SPSS, Adobe InDesign and Photoshop, Microsoft Word, Excel, PowerPoint, Outlook, and
-Publisher
+Validation, KNN, Missing Data Imputation, GitHub, LaTex, Power BI, SPSS, Adobe InDesign and Photoshop, 
+Microsoft Word, Excel, PowerPoint, Outlook, Publisher
 
 <br>
 <br>
