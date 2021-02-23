@@ -29,7 +29,6 @@ body {
   margin: 0 2%;
 }
 .pricing-table .pricing-option:hover {
-  cursor: pointer;
   box-shadow: 0px 2px 30px rgba(0, 0, 0, 0.3);
   transform: scale(1.04);
 }
